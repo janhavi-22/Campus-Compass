@@ -63,13 +63,3 @@ Campus Compass isn’t just another college app. It's designed to:
 - Custom REST APIs
 
 ---
-
-## 🛠️ Getting Started
-
-Clone the repo and set it up locally:
-
-```bash
-git clone https://github.com/janhavi-22/Campus-Compass.git
-cd Campus-Compass
-npm install
-npm start
