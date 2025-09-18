@@ -1,7 +1,7 @@
-<h1 align="center">🎓 Campus Compass</h1>
+<h1 align="center"> Campus Compass</h1>
 
 <p align="center">
-  Your all-in-one student assistant for campus life — navigate, connect, and stay updated! 🧭📱  
+  Your all-in-one student assistant for campus life — navigate, connect, and stay updated
 </p>
 
 <p align="center">
