@@ -14,13 +14,13 @@
 
 What is Campus Compass?
 
-Campus Compass is a **smart campus navigation and management tool** built to make student life easier. Whether you're a fresher trying to find the admin block, or a senior checking announcements — Campus Compass has got your back.  
-Think of it as **Google Maps + Campus Assistant + College Notice Board** — all in one sleek app.
+Campus Compass is a smart campus navigation and management tool built to make student life easier. Whether you're a fresher trying to find the admin block, or a senior checking announcements — Campus Compass has got your back.  
+Think of it as Google Maps + Campus Assistant + College Notice Board — all in one sleek app.
 
  Key Features
 
-| Feature                    | Description |
-|---------------------------|-------------|
+| Feature |                   | Description |
+
 |  Interactive Map        | Explore buildings, canteens, libraries, hostels, labs, etc. |
 |  Real-Time Navigation    | Step-by-step directions within the campus |
 |  Announcements & Notices| Get updates from departments and admin |
@@ -37,25 +37,21 @@ Campus Compass isn’t just another college app. It's designed to:
 -  Improve communication between students & departments
 -  Minimize FOMO with real-time updates
 
----
+ Tech Stack
 
-## ⚙️ Tech Stack
-
-### 💻 Frontend
+ Frontend
 - React.js
 - HTML5, CSS3, JavaScript
 - Tailwind CSS / Bootstrap (if used)
 
-### 🧠 Backend
+ Backend
 - Node.js
 - Express.js
 
-### 🛢️ Database
+ Database
 - MongoDB (Mongoose)
 - Firebase (for auth/notifications)
 
-### 🌐 APIs
+ APIs
 - Google Maps API
 - Custom REST APIs
-
----
