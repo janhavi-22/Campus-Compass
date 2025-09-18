@@ -29,15 +29,13 @@ Think of it as **Google Maps + Campus Assistant + College Notice Board** — all
 |  Push Notifications      | Stay in the loop with instant alerts |
 |  Search Everything       | Smart search for locations, people, services |
 
----
-
-## 🧠 Why It Matters
+ Why It Matters
 
 Campus Compass isn’t just another college app. It's designed to:
-- 💡 Reduce confusion for new students
-- ⏱️ Save time navigating
-- 📲 Improve communication between students & departments
-- 🧘 Minimize FOMO with real-time updates
+-  Reduce confusion for new students
+-  Save time navigating
+-  Improve communication between students & departments
+-  Minimize FOMO with real-time updates
 
 ---
 
