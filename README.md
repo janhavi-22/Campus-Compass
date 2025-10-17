@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-Love-red" />   
-  <img src="https://img.shields.io/github/license/janhavi-22/Campus-Compass" />  fjrnfnjrfjef
+  <img src="https://img.shields.io/github/license/janhavi-22/Campus-Compass" />  fjrnfnjrfjeffrfrf
   <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />   
 </p>
 
