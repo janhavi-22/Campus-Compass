@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-Love-red" />   
   <img src="https://img.shields.io/github/license/janhavi-22/Campus-Compass" />  
-  <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />   rferfeesdeefedefrgg
+  <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />   rferfeesdeefedefrggt5ttgg5
 </p>
 
 What is Campus Compass? 
