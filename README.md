@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />   
 </p>
 
-What is Campus Compass?  dbewyhdgegr4y6r4iuerfhyuehyfui4thfuehurhfieu8roiweujfi8uer85ghujhtieuygt8urehtei5rhy4ihyeyh4teihyigt4u8hgihygtriehgy8tiihreuhgriu8eyhr8t5uy485hi5
+What is Campus Compass?  dbewyhdgegr4y6r4iuerfhyuehyfui4thfuehurhfieu8roiweujfi8uer85ghujhtieuygt8urehtei5rhy4ihyeyh4teihyigt4u8hgihygtriehgy8tiihreuhg
 
 Campus Compass is a smart campus navigation and management tool built to make student life easier. Whether you're a fresher trying to find the admin block, or a senior checking announcements — Campus Compass has got your back.  
 Think of it as Google Maps + Campus Assistant + College Notice Board — all in one sleek app.        
