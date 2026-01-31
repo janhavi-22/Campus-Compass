@@ -4,7 +4,7 @@
   Your all-in-one student assistant for campus life — navigate, connect, and stay updated
 </p>
 
-<p align="center">   bhgftyrfdswd32qw23wsrtfyt5fyhtvcvfchbjghjbjnjkuhyhgbtgfrfdrdesftguhuyt6t5r5fguhoikplpjbgfdreswwssettr5tr5y
+<p align="center">   bhgftyrfdswd32qw23wsrtfyt5fyhtvcvfchbjghjbjnjkuhyhgbtgfrfdrdesftguhuyt6t5r5fguhoikplpjbgfdreswwss
   <img src="https://img.shields.io/badge/Made%20with-Love-red" />   
   <img src="https://img.shields.io/github/license/janhavi-22/Campus-Compass" /> 
   <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />   
